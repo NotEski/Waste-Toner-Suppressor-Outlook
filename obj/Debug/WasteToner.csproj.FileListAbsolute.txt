@@ -1,0 +1,15 @@
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\WasteToner.dll
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\WasteToner.pdb
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\WasteToner.dll.manifest
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\WasteToner.vsto
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.csproj.AssemblyReference.cache
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.Properties.Resources.resources
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.csproj.GenerateResource.cache
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.csproj.CoreCompileInputs.cache
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.csproj.CopyComplete
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.dll
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.pdb
+C:\Users\Declan\source\repos\WasteToner\obj\Debug\WasteToner.wtrProperties.resources
+C:\Users\Declan\source\repos\WasteToner\bin\Debug\WasteToner.dll.config

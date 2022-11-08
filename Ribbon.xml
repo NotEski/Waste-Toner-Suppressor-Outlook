@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="Ribbon_Load">
+  <ribbon>
+    <tabs>
+      <tab idMso="TabMail">
+        <group id="ContentGroup" label="ECC">
+          <button id="btnStart"  label="Waste Toner Reporter"
+             screentip="Does some pretty cool stuff" onAction="wtrStart"
+             size="large" image="default"/>
+          <dialogBoxLauncher>
+            <button id="btnSettings" label="Edit Settings"
+                onAction="wtrSettings"/>
+          </dialogBoxLauncher>
+        </group>
+      </tab>
+    </tabs>
+  </ribbon>
+</customUI>
+
