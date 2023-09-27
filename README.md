@@ -1,4 +1,4 @@
 # Waste-Toner-Suppressor-Outlook
-its the waste toner suppreesor on my page but as an outlook addin using VSTO
+Email scrapper that scrapes data from a specified folder from the past x amount of days.
 
-CODE WILL BE ADDED SOON
+Created for ECC alert files
